@@ -16,7 +16,11 @@
 - [Monitoring and Forecasting of Environmental parameters using Embedded systems] - A 3d model for predicting and forecating of environmental parameters with the help of Machine Learning Algorithms.
 - [A Weather Application ]- A Weather application for addition in the Monitoring and Forecasting of environmental parameters for better prediction and forecasting in a specific region.
 - [Gym Database Management System](https://github.com/Vishal73A/gym.git)-A Database for Gym to Manage the data easily and in an Efficient manner with the help of SQL Server.
-- [Mechanic Finder]-This project is currently in under processing .Basically this is a website for finding nearby mechanic anytime . 
+- [Mechanic Finder]-This project is currently in under processing .Basically this is a website for finding nearby mechanic anytime .
+- [Heart Disease Diagnostic Analysis](https://github.com/Vishal73A/HeartDiseaseDiagnosticAnalysis.git)-Analyze the health and medical data for better future preparation.This projects help in  extracts various       information such as Heart disease rates, Heart disease by gender, by age.There is a Dashboard and various visualizations and key matrics for better model training and better future analysis of health.This code 
+  is done on Jupyter Notebook.
+  
+
 
 
 <!---
